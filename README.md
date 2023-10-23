@@ -3,9 +3,11 @@
 This package uses `Open Weather API` to fetch weather data. So it's mandatory to register and get the API KEY.
 
 ### Installation
+
 Install this package as a dev dependency
+
 ```cmd
-npm i -D vktech-cli-weather
+npm i -D @vinothkumar1097/cli-weather
 ```
 
 ### To obtain API Key

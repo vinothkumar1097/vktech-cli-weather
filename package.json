@@ -1,7 +1,7 @@
 {
-  "name": "vktech-cli-weather",
-  "version": "1.0.1",
-  "description": "get weather info using cli",
+  "name": "@vinothkumar1097/cli-weather",
+  "version": "1.0.0",
+  "description": "cli utility to get weather info",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,10 @@
   "author": "VINOD KUMAR L",
   "license": "ISC",
   "devDependencies": {
-    "inquirer": "^8.0.0",
     "yargs": "^17.7.2"
   },
   "dependencies": {
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.0.0"
   }
 }
