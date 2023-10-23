@@ -1,6 +1,6 @@
 {
   "name": "@vinothkumar1097/cli-weather",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli utility to get weather info",
   "main": "index.js",
   "scripts": {

@@ -26,11 +26,11 @@ WEATHER_API=YOUR_API_KEY
 ### How to run
 
 - First, you should have the package installed.
-- Then in your `cmd` terminal, type `vktech-cli-weather` and press ENTER
+- Then in your `cmd` terminal, type `cli-weather` and press ENTER
 - You will now see below output
 
 ```
->vktech-cli-weather
+>cli-weather
 ? Enter the location chennai
 ```
 
